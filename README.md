@@ -26,7 +26,6 @@ GitHub 저장소에 파일을 올리고, GitHub Pages 기능을 이용해 웹페
 ## 결과물
 
 GitHub Pages 주소: https://ghwnag82-glitch.github.io/my-first-github/
-여기에 내 웹페이지 주소를 붙여넣기
 
 ## 앞으로 개선할 점
 
