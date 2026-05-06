@@ -50,3 +50,31 @@ li {
   margin: 12px 0;
   font-size: 17px;
 }
+
+.project-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.project-card {
+  background-color: white;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.project-card h3 {
+  color: #2b5cff;
+  margin-top: 0;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #eaf1ff;
+  color: #2b5cff;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 14px;
+}
