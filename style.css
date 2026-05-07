@@ -178,3 +178,28 @@ li {
 .contact .button-group {
   justify-content: center;
 }
+@media (max-width: 700px) {
+  body {
+    padding: 16px;
+  }
+
+  .hero {
+    padding: 32px 20px;
+  }
+
+  .hero h1 {
+    font-size: 26px;
+  }
+
+  .project-list {
+    grid-template-columns: 1fr;
+  }
+
+  .button-group {
+    flex-direction: column;
+  }
+
+  .button-group a {
+    text-align: center;
+  }
+}
