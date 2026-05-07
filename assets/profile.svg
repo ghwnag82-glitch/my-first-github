@@ -1,0 +1,8 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" rx="40" fill="#eaf1ff"/>
+  <circle cx="150" cy="115" r="55" fill="#2b5cff"/>
+  <path d="M70 255c15-55 55-85 80-85s65 30 80 85" fill="#2b5cff"/>
+  <text x="150" y="285" text-anchor="middle" font-size="22" fill="#1f2937" font-family="Arial">
+    Portfolio
+  </text>
+</svg>
