@@ -78,3 +78,22 @@ li {
   border-radius: 999px;
   font-size: 14px;
 }
+.button-group {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.button-group a {
+  text-decoration: none;
+  background-color: #2b5cff;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.button-group a:hover {
+  background-color: #1740c9;
+}
