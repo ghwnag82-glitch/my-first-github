@@ -133,3 +133,21 @@ li {
   font-size: 18px;
   line-height: 1.6;
 }
+.skills {
+  background-color: white;
+  padding: 24px;
+  border-radius: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.skills span {
+  background-color: #eaf1ff;
+  color: #2b5cff;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-weight: bold;
+  font-size: 15px;
+}
